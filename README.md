@@ -54,8 +54,7 @@ This is a simple console-based number guessing game implemented in Python. The g
 ## Usage
 
  **Run the script**:
-   ```bash
-   python number_guessing.py
+
 
 
 

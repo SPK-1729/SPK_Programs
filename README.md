@@ -30,5 +30,33 @@ This Python program displays a calendar for a given month and year. It provides 
    - If December is selected, highlights December 25 and displays a special Christmas message.
 
 
+# Number Guessing Game
+
+## Description
+
+This is a simple console-based number guessing game implemented in Python. The goal is to guess the correct number, which is `143`. The game provides feedback based on how close the guessed number is to the target number. It continues to prompt the user until they guess correctly.
+
+## Features
+
+- Prompts the user to guess a number.
+- Provides feedback based on the proximity of the guessed number:
+  - **"Congratulations! You nailed it!"** for the correct guess.
+  - **"You are on fire!"** for guesses between `140` and `149`.
+  - **"You are freezing."** for guesses between `1` and `142`.
+  - **"You are getting warmer."** for guesses between `144` and `200`.
+  - **"You are scorching."** for guesses outside the range of `1` to `200`.
+- Handles invalid input by prompting the user to enter a valid integer.
+
+## Requirements
+
+- Python 3.x
+
+## Usage
+
+ **Run the script**:
+   ```bash
+   python number_guessing.py
+
+
 
  

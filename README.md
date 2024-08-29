@@ -57,5 +57,16 @@ This is a simple console-based number guessing game implemented in Python. The g
 
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+[Phani Kumar Siddam]
+
+
+
+
 
  

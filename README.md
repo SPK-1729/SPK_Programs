@@ -63,7 +63,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[Phani Kumar Siddam]
+**Phani Kumar Siddam**  
+www.linkedin.com/in/phani1729
 
 
 
